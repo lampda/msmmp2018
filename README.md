@@ -90,5 +90,8 @@ dtypes = {
 }
 ```
 
-[Version 1.0]: add one new feature `Census_InternalBatteryNumberOfCharges_log1p`, using lgb, score 0.676
-[Version 2.0]: tba
+### TODO
+
+[x] [Version 1.0]: add one new feature `Census_InternalBatteryNumberOfCharges_log1p`, using lgb, score 0.676
+[ ] [Version 2.0]: add more new features
+
